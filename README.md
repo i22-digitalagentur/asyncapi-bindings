@@ -16,4 +16,5 @@ This repository contains the specifications for each AsyncAPI protocol binding.
 * [SNS binding](./sns)
 * [SQS binding](./sqs)
 * [STOMP binding](./stomp)
+* [WAMP binding](./wamp)
 * [WebSockets binding](./websockets)
